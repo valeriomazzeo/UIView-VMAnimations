@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'UIView-VMAnimations', :exclusive => true do
+  pod "UIView-VMAnimations", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "UIView-VMAnimations", :path => "../"
+
+  
+end

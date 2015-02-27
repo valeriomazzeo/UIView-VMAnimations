@@ -1,0 +1,14 @@
+PODS:
+  - UIView-VMAnimations (0.1.0)
+
+DEPENDENCIES:
+  - UIView-VMAnimations (from `../`)
+
+EXTERNAL SOURCES:
+  UIView-VMAnimations:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIView-VMAnimations: a22665baf23a112fb575aa1675332228bffb0b2d
+
+COCOAPODS: 0.35.0
