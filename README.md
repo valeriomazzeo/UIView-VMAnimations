@@ -4,9 +4,11 @@
 [![License](https://img.shields.io/cocoapods/l/UIView-VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView-VMAnimations)
 [![Platform](https://img.shields.io/cocoapods/p/UIView-VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView-VMAnimations)
 
-## GETTING STARTED
+## Overview
 
 UIView (VMAnimations) extends the UIView class to provide an easy way to animate UIView objects.
+
+[![Screencast](https://raw.githubusercontent.com/valeriomazzeo/UIView-VMAnimations/master/Resources/screencast.gif)]
 
 ## Usage
 
