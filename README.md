@@ -1,4 +1,4 @@
-# UIView-VMAnimations
+# UIView+VMAnimations
 
 [![Version](https://img.shields.io/cocoapods/v/UIView+VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView+VMAnimations)
 [![License](https://img.shields.io/cocoapods/l/UIView+VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView+VMAnimations)
