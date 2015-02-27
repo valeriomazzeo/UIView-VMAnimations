@@ -8,7 +8,7 @@
 
 UIView (VMAnimations) extends the UIView class to provide an easy way to animate UIView objects.
 
-[![Screencast](https://raw.githubusercontent.com/valeriomazzeo/UIView-VMAnimations/master/Resources/screencast.gif)]
+![Screencast](https://raw.githubusercontent.com/valeriomazzeo/UIView-VMAnimations/master/Resources/screencast.gif)
 
 ## Usage
 
