@@ -1,8 +1,8 @@
 # UIView-VMAnimations
 
-[![Version](https://img.shields.io/cocoapods/v/UIView-VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView-VMAnimations)
-[![License](https://img.shields.io/cocoapods/l/UIView-VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView-VMAnimations)
-[![Platform](https://img.shields.io/cocoapods/p/UIView-VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView-VMAnimations)
+[![Version](https://img.shields.io/cocoapods/v/UIView+VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView+VMAnimations)
+[![License](https://img.shields.io/cocoapods/l/UIView+VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView+VMAnimations)
+[![Platform](https://img.shields.io/cocoapods/p/UIView+VMAnimations.svg?style=flat)](http://cocoadocs.org/docsets/UIView+VMAnimations)
 
 ## Overview
 
